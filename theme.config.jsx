@@ -14,7 +14,6 @@ const config = {
       }
     }
   },
-  darkMode: false,
   logo: (
     <>
       <Image
