@@ -1,0 +1,19 @@
+{
+  "index": "Getting Started",
+  "---": {
+    "type": "separator"
+  },
+  "player": "Player",
+  "website": {
+    "title": "Reforge World",
+    "type": "page",
+    "href": "https://www.reforged.world",
+    "newWindow": true
+  },
+  "wiki": {
+    "title": "Reforge Docs",
+    "type": "page",
+    "href": "https://docs.reforged.world",
+    "newWindow": true
+  }
+}
