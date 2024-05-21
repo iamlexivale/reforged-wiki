@@ -11,9 +11,21 @@
     "newWindow": true
   },
   "wiki": {
+    "title": "Reforge Wiki",
+    "type": "page",
+    "href": "https://wiki.reforged.world",
+    "newWindow": true
+  },
+  "docs": {
     "title": "Reforge Docs",
     "type": "page",
     "href": "https://docs.reforged.world",
+    "newWindow": true
+  },
+  "trakteer": {
+    "title": "Trakteer",
+    "type": "page",
+    "href": "https://trakteer.id/reforgedworld",
     "newWindow": true
   }
 }
