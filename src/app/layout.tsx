@@ -12,8 +12,9 @@ interface Props {
 }
 
 export const metadata: Metadata = {
-  title: "Reforged Wiki",
-  description: "Official Reforged Wiki",
+  title: "Official Reforged Wiki",
+  description:
+    "The Reforged Wiki is an official wiki devoted to providing information about the Reforged features.",
 };
 
 export default function RootLayout({ children }: Props) {

@@ -1,5 +1,7 @@
 {
+  "stats": "Stats",
   "classes": "Classes",
+  "skills": "Skills",
   "attributes": "Attributes",
   "professions": "Professions"
 }

@@ -1,31 +1,39 @@
 {
-  "index": "Getting Started",
+  "index": "Introduction",
+  "getting-started": "Getting Started",
+  "guidelines": "Guidelines",
+  "contributors": "Contributors",
   "---": {
     "type": "separator"
   },
-  "player": "Player",
-  "website": {
-    "title": "Reforge World",
+  "commands": "Commands",
+  "characters": "Characters",
+  "items": "Items",
+  "worlds": "Worlds",
+  "towny": "Towny",
+  "developers": "Developers",
+  "world": {
+    "title": "Reforged World",
     "type": "page",
     "href": "https://www.reforged.world",
-    "newWindow": true
-  },
-  "wiki": {
-    "title": "Reforge Wiki",
-    "type": "page",
-    "href": "https://wiki.reforged.world",
-    "newWindow": true
-  },
-  "docs": {
-    "title": "Reforge Docs",
-    "type": "page",
-    "href": "https://docs.reforged.world",
     "newWindow": true
   },
   "trakteer": {
     "title": "Trakteer",
     "type": "page",
     "href": "https://trakteer.id/reforgedworld",
+    "newWindow": true
+  },
+  "wiki": {
+    "title": "Reforged Wiki",
+    "type": "page",
+    "href": "https://wiki.reforged.world",
+    "newWindow": true
+  },
+  "docs": {
+    "title": "Reforged Docs",
+    "type": "page",
+    "href": "https://docs.reforged.world",
     "newWindow": true
   }
 }
