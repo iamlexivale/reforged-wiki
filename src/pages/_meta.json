@@ -3,7 +3,7 @@
   "getting-started": "Getting Started",
   "guidelines": "Guidelines",
   "contributors": "Contributors",
-  "---": {
+  "divided1": {
     "type": "separator"
   },
   "commands": "Commands",
@@ -13,6 +13,10 @@
   "towny": "Towny",
   "compatibility": "Compatibility",
   "developers": "Developers",
+  "divided2": {
+    "type": "separator"
+  },
+  "patch-notes": "Patch Notes",
   "world": {
     "title": "Reforged World",
     "type": "page",
