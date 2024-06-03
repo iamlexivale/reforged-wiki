@@ -11,9 +11,9 @@ const nextConfig = withNextra({
     remotePatterns: [
       {
         protocol: "https",
-        hostname: "cdn.discordapp.com",
+        hostname: "sin1.contabostorage.com",
         port: "",
-        pathname: "/attachments/**",
+        pathname: "/**",
       },
     ],
   },

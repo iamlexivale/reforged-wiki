@@ -17,7 +17,7 @@ const config = {
   logo: (
     <>
       <Image
-        src="https://cdn.discordapp.com/attachments/1240631069879963649/1240631093846081689/reforged.png?ex=6647433e&is=6645f1be&hm=4838d2e651bc6c8648c481d40ba7f05bde9f1b66f786cd357bb5cc41abd3a62c&"
+        src="https://sin1.contabostorage.com/8e522510ce50465f85df97fa757b2d60:reforged/reforged-logo.png"
         width={24} height={24} alt="Logo Reforged"
       />
       <b style={{ marginLeft: '.4em' }}>Official Reforged Wiki</b>
